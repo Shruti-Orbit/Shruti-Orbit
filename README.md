@@ -1,4 +1,4 @@
-## Hi there 👋 I am Shruti from India
+## Hi there 👋 I am Shruti 
 
 I’m a passionate and results-driven **Web Developer** based in Patna, Bihar. With expertise in **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js**, I bring creative and dynamic web experiences to life.
 
