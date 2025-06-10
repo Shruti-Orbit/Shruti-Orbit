@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Shruti 
 
-I’m a passionate and results-driven **Web Developer** based in Patna, Bihar. With expertise in **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js**, I bring creative and dynamic web experiences to life.
+I’m a passionate and results-driven **Web Developer** based in Patna, Bihar. With expertise in **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js, Next.js, I bring creative and dynamic web experiences to life.
 
 I thrive on turning design ideas into fully functional, accessible, and high-performance websites. Currently, I'm working at **Fillip Technologies**, where I enjoy collaborating with diverse teams and continuously expanding my skills.
 
