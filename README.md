@@ -1,61 +1,123 @@
-## Hi there 👋 I am Shruti 
+# Hi there, I'm Shruti Singh
 
-I’m a passionate and results-driven **Web Developer** based in Patna, Bihar. With expertise in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js, Next.js, I bring creative and dynamic web experiences to life.
+### Frontend Developer | React.js | Next.js | JavaScript | TypeScript
 
-I thrive on turning design ideas into fully functional, accessible, and high-performance websites. Currently, I'm working at **Fillip Technologies**, where I enjoy collaborating with diverse teams and continuously expanding my skills.
+I'm a **Frontend Developer with 2+ years of professional experience** specializing in building responsive, scalable, and high-performance web applications.
 
----
+I work primarily with **React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, and REST APIs**, with additional experience in **Laravel, PHP, WordPress, and Node.js**.
 
-## 🚀 Skills
-
-- 💻 **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- 🎨 **Frameworks & Libraries:** Bootstrap, Tailwind CSS, React.js
-- 📰 **CMS:** WordPress
-- 🛠️ **Tools:** Git & GitHub
+Currently working at **Fillip Technologies**, I focus on creating modern user interfaces, integrating APIs, optimizing performance, and turning UI/UX designs into production-ready web experiences.
 
 ---
 
-## 💼 Work Experience
+## Technical Skills
 
-**Front-End Designer & Developer**  
-- 🖥️ Developed dynamic, responsive, and SEO-friendly websites for diverse clients.
-- 🔍 Ensured cross-browser compatibility and excellent performance.
-- 🎨 Translated UI/UX designs into interactive, user-friendly web pages.
+### Frontend Development
 
-**SEO Executive**  
-- 📈 Managed on-page and off-page optimization strategies.
-- 🚀 Improved website traffic and search rankings through effective SEO practices.
+**React.js** · **Next.js** · **JavaScript (ES6+)** · **TypeScript**
+
+**HTML5** · **CSS3** · **Tailwind CSS** · **Bootstrap**
+
+Responsive Design · Mobile-First Development · Reusable Components · UI/UX Implementation
+
+### Animation & UI
+
+**Framer Motion** · **GSAP**
+
+Interactive Interfaces · Smooth Animations · Modern UI Development
+
+### API & Backend
+
+**REST APIs** · **Axios** · **API Integration**
+
+**Node.js** · **Laravel** · **PHP** · **MongoDB**
+
+### CMS
+
+**WordPress** · **Elementor**
+
+Custom Websites · Theme Customization · CMS Integration
+
+### Tools & Platforms
+
+**Git** · **GitHub** · **npm**
+
+**Vercel** · **Hostinger** · **aaPanel** · **Docker**
+
+### Development Practices
+
+- Responsive & Mobile-First Development
+- Component-Based Architecture
+- Reusable & Maintainable Code
+- REST API Integration
+- SEO-Friendly Development
+- Website Performance Optimization
+- Cross-Browser Compatibility
+- Git-Based Development Workflow
+- Production Deployment
 
 ---
 
-## 🔧 What I Do
+## Professional Experience
 
-- 💡 Build accessible, high-performing websites that delight users and clients.
-- 🎨 Transform complex UI designs into seamless, intuitive user experiences.
-- 🤝 Collaborate with cross-functional teams to deliver projects on time and within budget.
+### Frontend Developer — Fillip Technologies
 
----
-
-## 🎓 Education
-
-- **Bachelor of Computer Applications (B.C.A)**  
-  M.G.M College IT and Management, Patna — 65%
-- **Intermediate**  
-  Jamuhar High School, Dehri — 76%
-- **Matriculation**  
-  Sun Beam Public School, Dehri — 9.2 CGPA
+- Develop responsive and modern websites using **React.js, Next.js, Tailwind CSS, and WordPress**.
+- Build reusable and scalable frontend components.
+- Convert **Figma/UI designs into responsive production-ready interfaces**.
+- Integrate and manage **REST APIs** for dynamic applications.
+- Work with **Laravel Blade, PHP, and WordPress** alongside modern frontend technologies.
+- Optimize websites for **performance, SEO, responsiveness, and accessibility**.
+- Collaborate with designers and backend developers to deliver production-ready solutions.
+- Manage Git workflows and deploy websites across different hosting environments.
 
 ---
 
-## 📫 Contact Me
+## What I Do
 
-- ✉️ [scdhr21@gmail.com](mailto:scdhr21@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shruti-singh-a6a329233/)
-- 💻 [GitHub](https://github.com/Shruti-Orbit)
+**Frontend Development**  
+Build fast, responsive, and scalable web applications.
+
+**UI Development**  
+Transform designs into clean, interactive, and pixel-accurate interfaces.
+
+**React & Next.js**  
+Develop reusable components and modern application architectures.
+
+**API Integration**  
+Connect frontend applications with REST APIs and dynamic backend data.
+
+**Performance & SEO**  
+Optimize websites for speed, search engines, responsiveness, and user experience.
+
+**Web Development**  
+Work across React, Next.js, Laravel, WordPress, and PHP-based projects.
 
 ---
 
-## 🌱 Let’s Connect!
+## Currently Learning
 
-I’m always excited to collaborate on web development projects or share knowledge about front-end technologies. Feel free to connect with me!
+**Redux Toolkit** · **Advanced TypeScript** · **Node.js** · **MongoDB** · **MERN Stack** · **Backend Development**
 
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**  
+M.G.M College of IT and Management, Patna
+
+---
+
+## Connect With Me
+
+**Email:** scdhr21@gmail.com  
+**LinkedIn:** [Shruti Singh](https://www.linkedin.com/in/shruti-singh-a6a329233/)  
+**GitHub:** [Shruti-Orbit](https://github.com/Shruti-Orbit)
+
+---
+
+### Let's Build Something Great
+
+I'm passionate about **frontend development, modern web technologies, clean UI, and building high-quality digital experiences**.
+
+Feel free to connect, collaborate, or discuss anything related to web development.
